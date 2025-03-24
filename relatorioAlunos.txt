@@ -1,0 +1,7 @@
+Ana Paula | JavaScript Intermediário | 8.5
+Fernanda Costa | Java Básico | 8.5
+João Silva | Java Básico | 8.333333333333334
+Maria Oliveira | Python Avançado | 8.166666666666666
+Rafael Almeida | Python Avançado | 7.5
+Pedro Santos | C++ Estruturado | 7.333333333333333
+Lucas Mendes | Algoritmos com C | 6.0

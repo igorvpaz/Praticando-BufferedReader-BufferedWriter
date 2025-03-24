@@ -1,0 +1,5 @@
+4 | JavaScript Intermediário | 350.0 | Coursera | false | Preço Final: 350.0
+2 | Python Avançado | 400.0 | Udemy | true | Preço Final: 500.0
+3 | C++ Estruturado | 300.0 | Unidade Zona Norte | 30 | Preço Final: 900.0
+1 | Java Básico | 500.0 | Unidade Centro | 40 | Preço Final: 1300.0
+5 | Algoritmos com C | 450.0 | Unidade Sul | 50 | Preço Final: 1450.0
