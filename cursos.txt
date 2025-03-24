@@ -1,0 +1,5 @@
+1 | PRESENCIAL | Java Básico | 500.0 | Unidade Centro | 40
+2 | ONLINE | Python Avançado | 400.0 | Udemy | true
+3 | PRESENCIAL | C++ Estruturado | 300.0 | Unidade Zona Norte | 30
+4 | ONLINE | JavaScript Intermediário | 350.0 | Coursera | false
+5 | PRESENCIAL | Algoritmos com C | 450.0 | Unidade Sul | 50
